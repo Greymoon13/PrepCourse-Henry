@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es solo un repositorio de prueba, modulo 2 de Henry
+Enrique Mendoza
+Este proyecto es una prueba de como clonar un repositorio
